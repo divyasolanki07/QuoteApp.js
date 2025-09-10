@@ -8,6 +8,12 @@
     padding: 10px;
     text-align: center;
 }
+.farsan-regular {
+  font-family: "Farsan", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .container{
     width: 1320px;
     margin: 0px auto;
@@ -79,3 +85,4 @@
   transform: scale(1.05);
 
 }
+
